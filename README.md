@@ -2,6 +2,6 @@
 
 ## subtítulo
 
-[] Parágrafo 1
-[] Parágrafo 2
-[] Parágrafo 3
+- [] Parágrafo 1
+- [] Parágrafo 2
+- [] Parágrafo 3
