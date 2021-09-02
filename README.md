@@ -2,6 +2,6 @@
 
 ## subtítulo
 
-Parágrafo 1
+**Parágrafo 1
 _Parágrafo 2_
-Parágrafo 3
+Parágrafo 3**
