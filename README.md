@@ -2,6 +2,6 @@
 ## repositorio-github
 ### repositorio-github
 
-_Texto 1_
+__Texto 1
 *Texto 2*
-Texto 3
+Texto 3__
