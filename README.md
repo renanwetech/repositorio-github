@@ -3,5 +3,5 @@
 ### repositorio-github
 
 Texto 1
-Texto 2
+__Texto 2__
 Texto 3
